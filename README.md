@@ -52,7 +52,27 @@ The dashboard enables users to monitor key performance indicators, analyze sales
 # 📈 Key Performance Indicators
 | Metric   | Value    |
 | -------- | -------- |
-| Total Orders    | £3,520,984     |
-| Total Revenue  | Data     | 
+| Total Orders    | 1000 |
+| Total Revenue  | £3,520,984 | 
 | Average Customer Spending | £3,520.98 |
 | Average Delivery Time | 5.53 Days |
+
+
+# 💡 Business Questions Answered
+- Which occasions generate the highest revenue?
+- Which product categories perform best?
+- Which products contribute the most revenue?
+- Which cities generate the highest number of orders?
+- During which hours do customers purchase the most?
+- How does revenue change throughout the year?
+- What is the average customer spending?
+- How efficient is the delivery process?
+
+# 📚 Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Power Query (ETL)
+- Data Modeling
+- Pivot Tables
+- KPI Design
+- Data Visualization
