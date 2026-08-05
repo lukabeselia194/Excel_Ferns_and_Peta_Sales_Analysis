@@ -20,8 +20,7 @@ The dashboard enables users to monitor key performance indicators, analyze sales
 - 🚚 Average Order-to-Delivery Time
 
 # 📊 Dashboard Preview
-![Dashboard](Dashboard Preview.png)
-
+![Dashboard](https://github.com/lukabeselia194/Excel_Ferns_and_Peta_Sales_Analysis/blob/main/Dashboard%20Preview.png)
 # 🛠️ Tech Stack
 - Microsoft Excel
 - Power Query
