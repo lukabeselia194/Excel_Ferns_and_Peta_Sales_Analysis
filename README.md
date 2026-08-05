@@ -52,5 +52,7 @@ The dashboard enables users to monitor key performance indicators, analyze sales
 # 📈 Key Performance Indicators
 | Metric   | Value    |
 | -------- | -------- |
-| Total Orders    | Data     |
-| Row 2    | Data     | 
+| Total Orders    | £3,520,984     |
+| Total Revenue  | Data     | 
+| Average Customer Spending | £3,520.98 |
+| Average Delivery Time | 5.53 Days |
