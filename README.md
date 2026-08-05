@@ -20,8 +20,7 @@ The dashboard enables users to monitor key performance indicators, analyze sales
 - 🚚 Average Order-to-Delivery Time
 
 # 📊 Dashboard Preview
-![sales_dashboard.png…]()
-
+![Dashboard](Dashboard Preview.png)
 
 # 🛠️ Tech Stack
 - Microsoft Excel
