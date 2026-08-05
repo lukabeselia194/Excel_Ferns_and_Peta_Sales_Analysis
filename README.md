@@ -24,10 +24,27 @@ The dashboard enables users to monitor key performance indicators, analyze sales
 
 
 # 🛠️ Tech Stack
--Microsoft Excel
--Power Query
--Pivot Tables
--Pivot Charts
--Slicers & Timelines
--Calculated Fields & KPIs
--Data Visualization
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Pivot Charts
+- Slicers & Timelines
+- Calculated Fields & KPIs
+- Data Visualization
+
+# 🔄 Data Analysis Workflow
+### 1) Data Collection
+  - Imported raw sales data into Excel.
+### 2) Data Cleaning & Transformation
+  - Cleaned and transformed the dataset using Power Query.
+  - Handled inconsistent values and formatted data types.
+  - Created additional columns required for analysis.
+### 3) Data Modeling
+  - Organized the cleaned data into an analysis-ready structure.
+### 4) Data Analysis
+  - Built Pivot Tables to summarize key business metrics.
+  - Created KPIs to monitor overall business performance.
+### 5) Data Visualization
+  - Designed an interactive dashboard using Pivot Charts, KPI cards, and slicers.
+### 6) Business Insights
+  - Identified trends across products, occasions, cities, and time periods to support decision-making.
