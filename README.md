@@ -24,10 +24,10 @@ The dashboard enables users to monitor key performance indicators, analyze sales
 
 
 # 🛠️ Tech Stack
-- Microsoft Excel
-- Power Query
-- Pivot Tables
-- Pivot Charts
-- Slicers & Timelines
-- Calculated Fields & KPIs
-- Data Visualization
+-Microsoft Excel
+-Power Query
+-Pivot Tables
+-Pivot Charts
+-Slicers & Timelines
+-Calculated Fields & KPIs
+-Data Visualization
