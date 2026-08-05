@@ -48,3 +48,9 @@ The dashboard enables users to monitor key performance indicators, analyze sales
   - Designed an interactive dashboard using Pivot Charts, KPI cards, and slicers.
 ### 6) Business Insights
   - Identified trends across products, occasions, cities, and time periods to support decision-making.
+
+# 📈 Key Performance Indicators
+| Metric   | Value    |
+| -------- | -------- |
+| Total Orders    | Data     |
+| Row 2    | Data     | 
