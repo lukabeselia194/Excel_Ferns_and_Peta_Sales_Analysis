@@ -74,3 +74,8 @@ The dashboard enables users to monitor key performance indicators, analyze sales
 - Pivot Tables
 - KPI Design
 - Data Visualization
+
+# 👨‍💻 Author
+# - Luka Beselia
+# - Linkedin: https://www.linkedin.com/in/luka-beselia/
+# - Email: lukabeselia194@gmail.com
