@@ -19,29 +19,37 @@ The dashboard enables users to monitor key performance indicators, analyze sales
 
 # 💡 Insights
 ### 1. Revenue is highly seasonal
-Valentine's Day, Holi, Raksha Bandhan and Diwali each have a ~10-day order window. Together they bring in ₹18.5L = 52.6% of revenue (520 of 1,000 orders).
-Festival days average ~₹46,300 per day vs ~₹5,100 on other days (about 9x).
-Four months (Feb, Mar, Aug, Nov) make up 68% of annual revenue. Every other month is a flat ₹1.4–1.6L, and January is the weakest at ₹95K (34 orders).
+- Valentine's Day, Holi, Raksha Bandhan and Diwali each have a ~10-day order window. Together they bring in **£18.5L = 52.6% of revenue** (520 of 1,000 orders).
+- Festival days average **~£46,300 per day vs ~£5,100** on other days (about 9x).
+- Four months (Feb, Mar, Aug, Nov) make up **68% of annual revenue**. Every other month is a flat £1.4–1.6L, and January is the weakest at £95K (34 orders).
 ### 2. Raksha Bandhan is the most valuable festival; Diwali has the most headroom
-Raksha Bandhan: ₹6.32L in 10 days (highest, ~₹63K/day) with the highest average order (₹4,785, 75% above Birthday's ₹2,740).
-Diwali is just 9% of revenue (~₹31K/day), about half of Holi and Raksha Bandhan on a per-day basis.
-Valentine's Day has the lowest average order of the festivals (₹2,937), an upselling opportunity.
+- Raksha Bandhan: £6.32L in 10 days (highest, ~£63K/day) with the highest average order (£4,785, **75% above Birthday's ₹2,740**).
+- Diwali is just 9% of revenue (~₹31K/day), about half of Holi and Raksha Bandhan on a per-day basis.
+- Valentine's Day has the lowest average order of the festivals (₹2,937), an upselling opportunity.
 ### 3. Delivery timing is an operational gap
-Using the actual 2023 festival dates (Feb 14, Mar 8, Aug 30, Nov 12), 238 of 520 festival orders (45.8%) have a delivery date after the festival (Valentine's 45%, Holi 47%, Raksha Bandhan 49%, Diwali 40%).
-Delivery time is spread evenly from 1 to 10 days (avg 5.53; 32% of orders take 8+ days) and is unrelated to order value or quantity (correlation 0.01 and 0.00) and nearly identical across occasions (4.9–5.8 days).
-Caveat: the data has no customer-requested delivery date, so this is inferred from the festival calendar.
+- Using the actual 2023 festival dates (Feb 14, Mar 8, Aug 30, Nov 12), **238 of 520 festival orders (45.8%) have a delivery date after the festival** (Valentine's 45%, Holi 47%, Raksha Bandhan 49%, Diwali 40%).
+- Delivery time is spread evenly from 1 to 10 days (avg 5.53; 32% of orders take 8+ days) and is **unrelated to order value or quantity** (correlation 0.01 and 0.00) and nearly identical across occasions (4.9–5.8 days).
+- *Caveat: the data has no customer-requested delivery date, so this is inferred from the festival calendar.*
 ### 4. Category and product performance
-Colors is the largest category (₹10.06L, 29%), but Soft Toys earns the most per product (₹74K per product vs ₹26.5K for Plants) and Sweets is next (₹61K).
-Plants, Mugs and Cake together contribute only 21% of revenue.
+- **Colors** is the largest category (£1.01M, 29%), but **Soft Toys** earns the most per product (£74K per product vs £26.5K for Plants) and Sweets is next (£61K).
+- Plants, Mugs and Cake together contribute only 21% of revenue.
 ### 5. What drives order value
-Quantity per order is the same across categories (~3). Category average order value follows item price, not volume (Soft Toys ₹4,463 vs Plants ₹2,144).
-Orders are spread evenly across quantities 1–5, but 5-unit orders produce 36% of revenue.
-Products priced ₹1,500–2,000 are 33% of orders but 50% of revenue; items under ₹500 give only 4%.
+- Quantity per order is the same across categories (~3). Category average order value follows **item price**, not volume (Soft Toys £4,463 vs Plants £2,144).
+- Orders are spread evenly across quantities 1–5, but **5-unit orders produce 36% of revenue**.
+- Products priced £1,500–2,000 are 33% of orders but **50% of revenue**; items under £500 give only 4%.
 ### 6. What the data does not show
-No concentration risk: the top 10 customers are 16% of revenue, and the best product (Magnam Set) is 3.5%.
-No gender effect: average order ₹3,517 (male) vs ₹3,525 (female).
-No strong time-of-day pattern: orders arrive around the clock, and no hour exceeds 5% of revenue.
-Geography is dispersed: orders ship to 301 locations, the busiest with only 9 orders. Only 0.1% of orders ship to the customer's registered city, consistent with gifting to others.
+- **No concentration risk:** the top 10 customers are 16% of revenue, and the best product (Magnam Set) is 3.5%.
+- **No gender effect:** average order £3,517 (male) vs £3,525 (female).
+- **No strong time-of-day pattern:** orders arrive around the clock, and no hour exceeds 5% of revenue.
+- **Geography is dispersed:** orders ship to 301 locations, the busiest with only 9 orders. Only 0.1% of orders ship to the customer's registered city, consistent with gifting to others.
+
+
+## 🎯 Recommendations (based on the findings)
+1. Plan inventory, staffing and ad spend around the four festival windows.
+2. Prioritize delivery for festival orders (e.g., guaranteed pre-festival delivery tier).
+3. Promote premium bundles and quantity offers (buy 4+); push Valentine's average order value up.
+4. Investigate the Diwali assortment/promotion and run a campaign for the weak January.
+5. Expand Soft Toys and Sweets ranges; review the low-yield Plants range.
 
 # 🚀 Features
 - 📈 Executive KPI Dashboard
